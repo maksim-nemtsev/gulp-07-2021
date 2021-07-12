@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: aqua;
+}
+
+main {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
