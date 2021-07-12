@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksim-nemtsev/gulp-07-2021.git"
+  },
+  "author": "Maksim Nemtsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksim-nemtsev/gulp-07-2021/issues"
+  },
+  "homepage": "https://github.com/maksim-nemtsev/gulp-07-2021#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
